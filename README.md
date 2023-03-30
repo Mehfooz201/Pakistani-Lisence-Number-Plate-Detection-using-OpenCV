@@ -22,3 +22,11 @@ The features of this project include:
 - OpenCV library
 - Pytesseract library for OCR
 - Numpy and Pandas libraries for data processing
+
+## Screen Shots :
+![image](https://user-images.githubusercontent.com/61369686/228789516-b993cad6-7ee0-423a-a4e4-a547cba2eaf1.png)
+
+### Result :
+![image](https://user-images.githubusercontent.com/61369686/228790277-9bbddc1f-15e8-4ba8-b19d-c3fcff39af95.png)
+
+
